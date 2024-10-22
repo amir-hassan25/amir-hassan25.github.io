@@ -21,7 +21,7 @@ repository               : "amir-hassan25/amir-hassan25.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-pic.jpg"
+  avatar           : "bio-pic.jpg"
   name             : "Amir Hassan Shariatmadari"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Researcher in AI/ML"
