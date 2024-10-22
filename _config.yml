@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Amir's Homepage"
 title_separator          : "-"
 name                     : &name "Amir Hassan Shariatmadari"
-description              : &description "personal description"
+description              : &description "Amir's Personal Website"
 url                      : https://amir-hassan25.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "amir-hassan25/amir-hassan25.github.io"
@@ -21,10 +21,10 @@ repository               : "amir-hassan25/amir-hassan25.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-pic.jpg"
   name             : "Amir Hassan Shariatmadari"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Graduate Researcher in AI/ML"
   location         : "Charlottesville, Virginia, USA"
   employer         : "University of Virginia"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=HmgvSJcAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # ULR "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : amirshariatmadari # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
