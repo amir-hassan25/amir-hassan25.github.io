@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+I am a Computer Science PhD Student at the University of Virginia. My research involves using Large Language Models and Graph Machine Learning for a variety of interesting biomedical problems. 
+
 
 
 <!-- 
